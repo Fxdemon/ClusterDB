@@ -1,6 +1,10 @@
 #QQ 群：419648337 
 #专业解答Cobar /  MyCat  /  ClusterDB 使用问题和BUG 以及遇到的坑  
 
+##### 下载：
+
+*	高可用代理部署资:
+	`链接: https://pan.baidu.com/s/1w5EwRqAfaabSq39X0M53Gw 提取码: m9cs `
 
 # ClusterDB是什么？
    ClusterDB是数据库和表切分的代理，兼容MySQL协议、JDBC协议和MySQL SQL语法，仅支持MySQL支持前台业务，更简单、更稳定、更高效和更安全。
